@@ -2,7 +2,7 @@ En este repositorio podrás consultar todo el material desarrollado y usado para
 
 En la carpeta de códigos, se puede acceder a los 3 códigos más usado para la elaboración de este trabajo: PretrainedModelBert, usado para ajustar de forma fina y probar en nuestro conjunto propio el rendimiento de cada modelo; PipelineModel, implementación del método CountVectorizer y TfidfTransformer; PruebaModelos, usado para la recopilación de datos y prueba de los distintos modelos preentrenados que hemos ajustado de forma fina en PretrainedModelBert.
 
-Seguidamente, Modelos preentrenados, permite acceder a un enlace a Drive desde el que se pueden descargar para su prueba, todos los modelos preentrenados que hemos ajustado de forma fina.
+Seguidamente, Modelos preentrenados, permite acceder a un enlace a Drive desde el que se pueden descargar para su prueba, todos los modelos preentrenados que hemos ajustado de forma fina. Están en un medio externo, debido a que GitHub tiene una limitación de tamaño de un repositorio que imposibilita poder dejarlos directamente accesibles.
 
 A continuación, en Tablas, se pueden ver las tablas de con todos los datos recopilados de los distintos modelos y método usados, tanto en sus versiones de solo datos como en las usadas para la creación de las gráficas.
 
